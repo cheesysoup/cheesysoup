@@ -1,0 +1,46 @@
+
+.top{
+    float:top;
+    background-color: green;
+    color: beige;
+    border-radius: 99px;
+    text-align: center;
+    opacity: 0.7;
+
+}
+.menu {
+    width: 25%;
+    float: left;
+    font-size:30px;
+    border-radius: 25px;
+    background: lightgreen;
+    padding: 20px;
+    opacity: 0.7;
+    color: white;
+
+  }
+  .main {
+    width: 75%;
+    float: left;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    opacity: 0.7;
+    color: white;
+  
+  }
+  html {
+    font-family: "Lucida Sans", sans-serif;
+    background-image: url("jungle.jpg");
+    
+  }
+  :hover{
+      opacity: 1;
+  }
+ .img{
+    float:right;
+    width: min-content;
+    height: min-content;
+}
+  
+/*this is a comment lol*/
